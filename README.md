@@ -1,4 +1,4 @@
-# sSMB
+# sSMB - better name in future
 built on top of smb with some hashing and encryption
 
 runs on top of smbd/nmbd/netbios
