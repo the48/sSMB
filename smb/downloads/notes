@@ -1,0 +1,8 @@
+change hash.py to take arguments
+change asd.py to make the initial connection
+create script that lists shares, will take arguments
+change enc.py to save file with differnt name, avoid overwriting for now
+
+make main file that import/calls the rest
+create requirements.txt
+*make changes for windows machines of list shares
